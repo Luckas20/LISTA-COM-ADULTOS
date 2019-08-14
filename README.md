@@ -1,7 +1,5 @@
 #EXTM3U 
 
-LISTA COM ADULTOS
-
 #EXTINF:1, CANAIS DE LUCKAS
 https://t.me/Luckas444
 
