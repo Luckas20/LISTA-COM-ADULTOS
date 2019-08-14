@@ -1,9 +1,6 @@
 #EXTM3U 
 
-#EXTINF:1, CANAIS DE LUCKAS
-https://t.me/Luckas444
-
-#EXTINF:1, tvg-logo=https://www.ageradora.com.br/wp-content/uploads/2015/08/shutterstock_204850510-Convertido.png, CANAIS SENDO ADICIONADOS
+#EXTINF:1 tvg-logo=https://www.ageradora.com.br/wp-content/uploads/2015/08/shutterstock_204850510-Convertido.png,CANAIS DE LUCKAS
 https://cdn.bestdroidplayer.com/pt/wp-content/uploads/sites/4/2019/06/tv-online-gratis-melhores-sites.png
 
 
