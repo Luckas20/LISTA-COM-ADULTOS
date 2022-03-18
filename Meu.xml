@@ -1,0 +1,9 @@
+  <channel id="RTP 1">
+    <display-name lang="pt">[PT] RTP 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+
+  <channel id="RTP 1">
+    <display-name lang="pt">[PT] RTP 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
