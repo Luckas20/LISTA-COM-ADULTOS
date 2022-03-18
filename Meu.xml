@@ -8,7 +8,12 @@ url="http://www.webgrabplus.com">
     <url>http://www.nos.pt</url>
   </channel>
 
-  <channel id="[PT] RTP 2 HD">
+  <channel id="RTP 2 HD">
+    <display-name lang="pt">RTP 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+
+<channel id="RTP 3 HD">
     <display-name lang="pt">RTP 2</display-name>
     <url>http://www.nos.pt</url>
   </channel>
